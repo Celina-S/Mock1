@@ -1,0 +1,9 @@
+C:\Users\cecce\source\repos\Skat\bin\Debug\netcoreapp3.0\Skat.deps.json
+C:\Users\cecce\source\repos\Skat\bin\Debug\netcoreapp3.0\Skat.dll
+C:\Users\cecce\source\repos\Skat\bin\Debug\netcoreapp3.0\Skat.pdb
+C:\Users\cecce\source\repos\Skat\bin\Debug\netcoreapp3.0\Skat.xml
+C:\Users\cecce\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.csprojAssemblyReference.cache
+C:\Users\cecce\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.AssemblyInfoInputs.cache
+C:\Users\cecce\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.AssemblyInfo.cs
+C:\Users\cecce\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.dll
+C:\Users\cecce\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.pdb

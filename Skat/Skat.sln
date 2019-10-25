@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skat", "Skat.csproj", "{2C900248-9D11-4547-A903-B0B5CC7E0A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCarTax", "..\UnitTestCarTax\UnitTestCarTax.csproj", "{038A11FC-1028-401B-93A4-3494C8A69668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C900248-9D11-4547-A903-B0B5CC7E0A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C900248-9D11-4547-A903-B0B5CC7E0A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C900248-9D11-4547-A903-B0B5CC7E0A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C900248-9D11-4547-A903-B0B5CC7E0A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038A11FC-1028-401B-93A4-3494C8A69668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038A11FC-1028-401B-93A4-3494C8A69668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038A11FC-1028-401B-93A4-3494C8A69668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038A11FC-1028-401B-93A4-3494C8A69668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D32DB00A-03C0-40E9-BEAD-94FF92928C20}
+	EndGlobalSection
+EndGlobal
